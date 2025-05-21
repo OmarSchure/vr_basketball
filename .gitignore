@@ -78,3 +78,5 @@ DerivedDataCache/*
 
 # Ignore Unreal-specific logs (redundant if *.log is used, but explicit)
 Saved/Logs/*
+Saved/Crashes/*
+
